@@ -1,0 +1,8 @@
+name = "wider_ender_chests-fabric-1.21.1-1.0.4"
+filename = "wider_ender_chests-fabric-1.21.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EDVt0J2I/versions/fnZFdiLC/wider_ender_chests-fabric-1.21.1-1.0.4.jar"
+hash-format = "sha1"
+hash = "c3dd65b18d868c6e2600ded8aae102f2d976f484"

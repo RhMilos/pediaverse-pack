@@ -1,0 +1,8 @@
+name = "journeymap-fabric-1.21.1-6.0.9"
+filename = "journeymap-fabric-1.21.1-6.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/i7LuKuDl/journeymap-fabric-1.21.1-6.0.9.jar"
+hash-format = "sha1"
+hash = "460c9aa666d8d71440c8263bcdae52ae0ad6c728"

@@ -1,0 +1,148 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-13.0.12-fabric.pw.toml"
+hash = "239f48f466fd3727c5eb448728632344680efd071415df1a3c36a64073dbb651"
+metafile = true
+
+[[files]]
+file = "mods/Axiom-6.1.5-for-MC1.21.1.pw.toml"
+hash = "980f72ff08f7bbe5e4e236ab31ebfd3b8c9ff1bdc57ef6f6b04dd53089999afb"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-15.0.140-fabric.pw.toml"
+hash = "ba6b951fa0aea8f0d5693b57f8980406c0d679a1175ad891ed9887352de0c914"
+metafile = true
+
+[[files]]
+file = "mods/Clumps-fabric-1.21.1-19.0.0.1.pw.toml"
+hash = "63e18b9a8b56a5005782c27988ef811ff2ba927c7b12f9b30429b4c9b2be3847"
+metafile = true
+
+[[files]]
+file = "mods/Cobblemon-fabric-1.8.4+1.21.1.pw.toml"
+hash = "9190648e40578c5872654ca8ea00a6aae2ad086c3fd7ae1183ef1cf1393bc968"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps-3.11.4+minecraft-1.21.0-fabric.pw.toml"
+hash = "59f3712b52a3fbc751d27a5312531378e8259290528e65bf77bb53d32f6ec992"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-fabric-1.12.1-mc1.21.1.pw.toml"
+hash = "8144af4650d17f1e3944aabb336160435420008202616221b8e6e7be5588fd10"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.116.18-1.21.1.pw.toml"
+hash = "da965b1e0921cb5cd4916bed8b66b2c63666b99ceef0d3fc64843ac6f9935a10"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.pw.toml"
+hash = "663b220ebb7b85a36c95f4d6fa5f6c4430ed141eaeab3e461e818a12df99ad6e"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-7.0.3-fabric.pw.toml"
+hash = "0951c6d205e42b55c62da3e3b19349ce449b86afb00eca6375c6b35998328c93"
+metafile = true
+
+[[files]]
+file = "mods/framework-fabric-1.21.1-0.13.11.jar"
+hash = "5d15360a4fffa8699562c700b5b0e97f0fd0b63006f0c1dbe2fec2b60022117d"
+
+[[files]]
+file = "mods/ImmediatelyFast-Fabric-1.6.15+1.21.1.pw.toml"
+hash = "34cc2ccab07ea64804c4c9e73a80a960f247b876f483b0d700646371d66f3458"
+metafile = true
+
+[[files]]
+file = "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.pw.toml"
+hash = "038aa99660c594fa6e72668f4d5bcada00fd4e7c7113f443d92eb713e7460f88"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-fabric-1.21.1-6.0.9.pw.toml"
+hash = "140a947df5fb5d478bc944f0b8d29073250dcd4544c633042127e4710528684d"
+metafile = true
+
+[[files]]
+file = "mods/mcw-bridges-3.1.2-mc1.21.1fabric.pw.toml"
+hash = "ac6916ca929e7acdd4c5476d481da1bf8939f49e1c94ffc4d5ec0d50cee8b7d7"
+metafile = true
+
+[[files]]
+file = "mods/mcw-doors-1.1.5-mc1.21.1fabric.pw.toml"
+hash = "48883c225ea41a88632fa82304f900ba9a3dcd6d00456c8d861fd5624446e733"
+metafile = true
+
+[[files]]
+file = "mods/mcw-furniture-3.4.1-mc1.21.1fabric.pw.toml"
+hash = "23255c559b52e0aa71e76315fa0fd3d4d0a2b5c365ffb98bedd76a435fec41a7"
+metafile = true
+
+[[files]]
+file = "mods/mcw-lights-1.1.5-mc1.21.1fabric.pw.toml"
+hash = "f9e210e8ff915352c2917962c38a601f2858d24cab4f19f7218a30dcfd10d3aa"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwfences-1.2.1-mc1.21.1fabric.pw.toml"
+hash = "6eebbc8b4366f1e3f0d9c77cdac01867607d209a7b25e01a5d61927a96848ae7"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwstairs-1.0.2-mc1.21.1fabric.pw.toml"
+hash = "3b13216448c469c37bf3069fadf541b06e7ce3f992c2871470730f1b14bd0cfb"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwwindows-2.4.2-mc1.21.1fabric.pw.toml"
+hash = "ce7155db4942035d3da5cc59a650fe67779645e13c5e0f242e79d7dd1931e197"
+metafile = true
+
+[[files]]
+file = "mods/mezz_config-1.21.1-fabric-0.6.11.pw.toml"
+hash = "da71b3a1e9b7b1c2f51d5ae68aaf03cfbf2e146b03d6378a4c0164952203686d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu-11.0.5.pw.toml"
+hash = "2b0ddf6e7d56294f853e46f0b0131fd13db45bcad50c641925f101c67c077802"
+metafile = true
+
+[[files]]
+file = "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.pw.toml"
+hash = "9d29ee23cceb481dde0d021a4d0b6bfe8827df22325d0ce3dc5b7cd3882df7dc"
+metafile = true
+
+[[files]]
+file = "mods/pediaquete-0.12.0.jar"
+hash = "00c768762e4f68ac2ae9af5e9e19309dc3cc37bdf559be3b94beb9947546b0cf"
+
+[[files]]
+file = "mods/placeholder-api-2.4.2+1.21.pw.toml"
+hash = "2185ea312f3e93a92bbd91a2480fc827cb21dacf360fe571facf71f0b741a833"
+metafile = true
+
+[[files]]
+file = "mods/refurbished_furniture-fabric-1.21.1-1.0.22.jar"
+hash = "ccf5a4b585c41b9e629aedceb269e01b7488708f5440351e4a6862903dfe8ef4"
+
+[[files]]
+file = "mods/sodium-fabric-0.8.13+mc1.21.1.pw.toml"
+hash = "eb803a920dbce1020cfd2442a5b0b5261a8a110c18fd1ce238f6c57d8020f591"
+metafile = true
+
+[[files]]
+file = "mods/wider_ender_chests-fabric-1.21.1-1.0.4.pw.toml"
+hash = "9c8bda96b1d7484ce3e5651deea9257a83aa79ab7ed89403a8e34e6ecf843b4e"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-mod-7.3.8.pw.toml"
+hash = "5c6eb2c52b43d9240f36d862c75b6837afa5de8c88c3dde4cbe6f479c76906c8"
+metafile = true

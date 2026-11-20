@@ -1,0 +1,8 @@
+name = "mezz_config-1.21.1-fabric-0.6.11"
+filename = "mezz_config-1.21.1-fabric-0.6.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tEfOcA7/versions/osLh7NVT/mezz_config-1.21.1-fabric-0.6.11.jar"
+hash-format = "sha1"
+hash = "3efa03147562dd32e1573feba46aa96521de5b1c"
