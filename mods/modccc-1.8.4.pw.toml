@@ -1,8 +1,0 @@
-name = "modccc-1.8.4"
-filename = "modccc-1.8.4.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/qoL4kNxC/versions/rWyUftCW/modccc-1.8.4.jar"
-hash-format = "sha1"
-hash = "b48f4146d5eaa18f5785c0388ec6af7c876dc7d9"

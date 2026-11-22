@@ -110,9 +110,8 @@ hash = "da71b3a1e9b7b1c2f51d5ae68aaf03cfbf2e146b03d6378a4c0164952203686d"
 metafile = true
 
 [[files]]
-file = "mods/modccc-1.8.4.pw.toml"
-hash = "56d0038753f22576ea0e36b190eae92985f66541791f78da29d785c6e2a3b2d5"
-metafile = true
+file = "mods/modccc-1.8.4-pediaverse.jar"
+hash = "3a668d6368023bb4877e70b81c057bb901254b1e6f6d96b8b3d6ae11a9ecf407"
 
 [[files]]
 file = "mods/modmenu-11.0.5.pw.toml"
