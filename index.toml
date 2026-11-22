@@ -110,6 +110,11 @@ hash = "da71b3a1e9b7b1c2f51d5ae68aaf03cfbf2e146b03d6378a4c0164952203686d"
 metafile = true
 
 [[files]]
+file = "mods/modccc-1.8.4.pw.toml"
+hash = "56d0038753f22576ea0e36b190eae92985f66541791f78da29d785c6e2a3b2d5"
+metafile = true
+
+[[files]]
 file = "mods/modmenu-11.0.5.pw.toml"
 hash = "2b0ddf6e7d56294f853e46f0b0131fd13db45bcad50c641925f101c67c077802"
 metafile = true
