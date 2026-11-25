@@ -124,8 +124,8 @@ hash = "9d29ee23cceb481dde0d021a4d0b6bfe8827df22325d0ce3dc5b7cd3882df7dc"
 metafile = true
 
 [[files]]
-file = "mods/pediaquete-0.16.5.jar"
-hash = "1cc470bfb57ebe5a6243dd96207e9e7ed5795cbb0d86d2cbe948dcb2f5ba9d54"
+file = "mods/pediaquete-0.16.6.jar"
+hash = "e2a8332db81ce0c277718ca9ff875c0444754c73b9e988c45312fb0d2de2cdaa"
 
 [[files]]
 file = "mods/placeholder-api-2.4.2+1.21.pw.toml"
