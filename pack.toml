@@ -1,12 +1,12 @@
 name = "PédiaVerse"
 author = "PédiaVerse"
-version = "2026.11.26-0058"
+version = "2026.11.26-0118"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4525365eb386f1289b20d5562a4fa3de481de5fc5e438194af7b4348ab34f477"
+hash = "274793d87dbe3412d51a2d89c1c80a9faa0c9715a318945b833d93bb748a832e"
 
 [versions]
 minecraft = "1.21.1"
